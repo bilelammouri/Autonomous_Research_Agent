@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+
+# R
+R_libs/
+.Rhistory
+.RData
+.Ruserdata
+
+# Project Specific
+*.log
+*.csv
+*.bib
+*.aux
+*.bbl
+*.blg
+*.out
+*.pdf
+*.png
+ranked_articles.json
+agent_dashboard.html
+synthetic_content.tex
+main.tex
+
+# Credentials (IMPORTANT)
+agent_config.json
