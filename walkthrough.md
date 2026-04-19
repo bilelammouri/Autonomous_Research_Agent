@@ -1,6 +1,6 @@
 # Système Consolidé d'Agent de Recherche Autonome
 
-Monsieur le Professeur, j'ai regroupé et mis à jour le cœur de votre système dans un dossier unique pour garantir une stabilité totale. Ce pipeline ignore l'interface et se concentre sur la **production scientifique** brute.
+Ce pipeline ignore l'interface et se concentre sur la **production scientifique** brute.
 
 ## Structure du Dossier `Autonomous_Research_Agent`
 
